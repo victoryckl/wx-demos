@@ -3,50 +3,6 @@
   "packOptions": {
     "ignore": []
   },
-  "skeleton-config": {
-    "global": {
-      "loading": "spin",
-      "text": {
-        "color": "#EEEEEE"
-      },
-      "image": {
-        "shape": "",
-        "color": "#EFEFEF",
-        "shapeOpposite": []
-      },
-      "button": {
-        "color": "#EFEFEF",
-        "excludes": []
-      },
-      "pseudo": {
-        "color": "#EFEFEF",
-        "shape": "circle",
-        "shapeOpposite": []
-      },
-      "excludes": [],
-      "remove": [
-        ".footer"
-      ],
-      "empty": [],
-      "hide": [],
-      "grayBlock": [
-        ".swiper-item",
-        ".scroll-view-item"
-      ],
-      "cssUnit": "rpx",
-      "decimal": 4,
-      "showNative": false,
-      "backgroundColor": "transparent",
-      "mode": "auto",
-      "templateName": "skeleton"
-    },
-    "pages": {
-      "index/index": {},
-      "other/other": {
-        "showNative": true
-      }
-    }
-  },
   "setting": {
     "urlCheck": true,
     "es6": true,
@@ -57,7 +13,7 @@
     "newFeature": false,
     "coverView": true,
     "nodeModules": false,
-    "autoAudits": true,
+    "autoAudits": false,
     "showShadowRootInWxmlPanel": true,
     "scopeDataCheck": false,
     "uglifyFileName": false,
@@ -83,9 +39,9 @@
     "minifyWXSS": true
   },
   "compileType": "miniprogram",
-  "libVersion": "2.0.4",
-  "appid": "wx865bc437433536f7",
-  "projectname": "WxDemos1",
+  "libVersion": "2.14.1",
+  "appid": "wx079bff828f045cb4",
+  "projectname": "HelloWorld",
   "debugOptions": {
     "hidedInDevtools": []
   },
